@@ -1,2 +1,0 @@
-# nganlyle.github.io
-website
